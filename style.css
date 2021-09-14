@@ -59,6 +59,7 @@ button{
 }
 .section1{
     position:relative;
+    overflow: hidden;
 }
 nav{
     background-color:#3B4B48;
