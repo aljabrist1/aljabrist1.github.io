@@ -70,17 +70,12 @@ nav{
     position:fixed;
     z-index: 1;
 }
-.logo{
+.logo{    
+    height: 30px;
+    vertical-align: unset;
+    margin-top: 11px;
+    left: 19px;
     position: absolute;
-    top:5px;
-    left: 5px;
-    background-image: url(img/323Asset%2015logo_groub.png);
-    background-repeat: no-repeat;
-    background-size:contain;
-    background-position: 0 0;
-    flex: 1;
-    height: 80%;
-    width: 110px;
 }
 
 a{
@@ -115,13 +110,14 @@ nav button{
     background-color:transparent;
     border: 0;
 }
-nav button span{
+nav button span{    
     display: block;
-    background-color:#ededed;
-    height:1.7px;
-    width:27px;
+    background-color: #ededed;
+    height: 2px;
+    width: 33px;
     border-radius: 3px;
-    margin: 5px;
+    margin: 8px;
+}
 }
 .x-icon{
     display: none
@@ -240,7 +236,7 @@ hr{
     background-color:#DdddE2;
     text-align: center;
     margin: 2em;
-    border-radius: 15px;
+    border-radius: 6px;
     cursor: pointer;
     position: relative;
     overflow: hidden;
@@ -268,6 +264,7 @@ h2{
     flex-direction: column;
     width: 100%;
     height: 100%;
+    overflow: hidden;
 }
 
 .back button{
@@ -278,11 +275,11 @@ h2{
     
 }
 .back>button:first-child{
-    border-radius: 15px 15px 0 0;
+    border-radius: 6px 6px 0 0;
     transform-origin:top;
 }
 .back>button:last-child{
-    border-radius: 0px 0 15px 15px;
+    border-radius: 0px 0 6px 6px;
     transform-origin: bottom;
     transition-delay: .1s;
 }
@@ -463,7 +460,7 @@ input[type="submit"]{
         order:2;
         }
     nav button{
-        margin:13px 10px 0 0;
+        margin:7px 10px 0 0;
         background-color:transgparent;
         border: 0;
         order:1;
