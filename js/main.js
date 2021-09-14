@@ -1,3 +1,25 @@
+
+
+let bunav=document.getElementsByTagName("button")[0];
+let buac=false;
+bunav.onclick=()=>{
+    let nav=document.getElementsByTagName("nav")[0];
+    let div=bunav.getElementsByTagName("div");
+    if(buac==false){
+        nav.style.height="290px";
+        div[0].setAttribute("class","x1");
+        div[1].style.width="0px";
+        div[2].setAttribute("class","x2");
+        buac=true;
+    }else{
+        nav.style.height="60px";
+        div[0].setAttribute("class","");
+        div[1].style.width="42px";
+        div[2].setAttribute("class","");
+        buac=false;
+    }
+
+
 var slideIndex = 1;
 showDivs(slideIndex);
 
@@ -36,19 +58,4 @@ function reedmore() {
     moreText.style.display = "inline";
   }
 }
-/***************** id="xspan1"**************/
-function myFunction() {
-    var moreText = document.getElementById("morenav");
-    var licon = document.getElementById("licon");
-    var xicon = document.getElementById("x-icon");
-  if (moreText.style.height === "53px") {
-    moreText.style.height = "210px";
-      licon.style.display="none";
-      xicon.style.display="block";
-    
-  } else {
-    moreText.style.height = "53px";
-      licon.style.display="block";
-      xicon.style.display="none";
-  }
-}
+
