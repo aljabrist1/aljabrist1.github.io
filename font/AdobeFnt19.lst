@@ -1,0 +1,121 @@
+%!Adobe-FontList 1.19
+%Locale:0x401
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:D:\Downloads\123\مونتاج\WebDesine\تجربة\Bootstrap 4 Site Files\Bootstrap 4 Site Files\مجلد جديد\Font\CSS Web Fonts.mhtml
+FileModTime:1583787581
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:GESSUniqueLight-Light
+FamilyName:GE SS Unique
+StyleName:Light
+FullName:GE SS Unique Light Light
+MenuName:GE SS Unique Light
+StyleBits:0
+FamilyNameNative:GE SS Unique
+StyleNameNative:Light
+FullNameNative:GE SS Unique Light
+WritingScript:Arabic
+OutlineFileName:D:\Downloads\123\مونتاج\WebDesine\تجربة\Bootstrap 4 Site Files\Bootstrap 4 Site Files\مجلد جديد\Font\GE_SS_Unique_Light.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:19324
+FileModTime:1583788569
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,GE SS Unique Light
+NameArray:0,Mac,4,GE SS Unique Light Light
+NameArray:0,Win,1,GE SS Unique Light
+NameArray:0,Win,16,GE SS Unique
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:JannaLT-Regular
+FamilyName:Janna LT
+StyleName:Regular
+FullName:Janna LT Regular
+MenuName:Janna LT
+StyleBits:0
+FamilyNameNative:Janna LT
+StyleNameNative:Regular
+FullNameNative:Janna LT Regular
+WritingScript:Arabic
+OutlineFileName:D:\Downloads\123\مونتاج\WebDesine\تجربة\Bootstrap 4 Site Files\Bootstrap 4 Site Files\مجلد جديد\Font\JannaLT-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:139338
+FileModTime:1583788671
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Janna LT Regular
+NameArray:0,Win,1,Janna LT
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:KacstTitle
+FamilyName:KacstTitle
+FullName:KacstTitle
+MenuName:KacstTitle
+StyleBits:0
+FamilyNameNative:KacstTitle
+StyleNameNative:KacstTitle
+FullNameNative:KacstTitle KacstTitle
+WritingScript:Arabic
+OutlineFileName:D:\Downloads\123\مونتاج\WebDesine\تجربة\Bootstrap 4 Site Files\Bootstrap 4 Site Files\مجلد جديد\Font\KacstTitle.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:113740
+FileModTime:1583191743
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,KacstTitle
+NameArray:0,Win,1,KacstTitle
+NameArray:0,Win,16,KacstTitle
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Questv1-Regular
+FamilyName:Questv1
+StyleName:Regular
+FullName:Questv1-Regular
+MenuName:Questv1
+StyleBits:0
+FamilyNameNative:Questv1
+StyleNameNative:Regular
+FullNameNative:Questv1 Regular
+WritingScript:Arabic
+OutlineFileName:D:\Downloads\123\مونتاج\WebDesine\تجربة\Bootstrap 4 Site Files\Bootstrap 4 Site Files\مجلد جديد\Font\Questv1-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:83064
+FileModTime:1583788890
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,Questv1-Regular
+NameArray:0,Mac,4,Questv1-Regular
+NameArray:0,Win,1,Questv1
+%EndFont
+
