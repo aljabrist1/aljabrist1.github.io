@@ -110,7 +110,7 @@ nav button{
     background-color:transparent;
     border: 0;
 }
-nav button span{    
+nav button div{    
     display: block;
     background-color: #ededed;
     height: 2px;
@@ -118,15 +118,11 @@ nav button span{
     border-radius: 3px;
     margin: 8px;
 }
+.x1{    
+    transform: rotate(45deg) translate3d(10px,10px,0px);
 }
-.x-icon{
-    display: none
-}
-.x-icon span:first-child{
-    animation: x45 .9s both;
-}
-.x-icon span:last-child{
-    animation: x-45 .6s both;
+.x2{
+    transform: rotate(-45deg) translate3d(10px,-10px,0px);
 }
 img[src*="img/1x"]{
     width:1262px
